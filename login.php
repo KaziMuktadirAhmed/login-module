@@ -7,7 +7,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="style.css">
-        <title>Log in</title>
+        <title>Log  in page</title>
     </head>
 
     <body>
