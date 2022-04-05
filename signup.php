@@ -18,7 +18,7 @@
             header("Location: login.php");
             die;
         } else {
-            echo "Please enter some valid informaion!";
+            echo "<script>alert(\"Please enter some valid information!\")</script>";
         }
     }
 
