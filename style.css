@@ -3,6 +3,7 @@
     border-radius: 5px;
     padding: 4px;
     border: solid thin #aaa;
+    width: 100%;
 }
 
 #button {
