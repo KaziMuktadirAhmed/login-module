@@ -14,10 +14,10 @@
     </head>
 
     <body>
-        <h1>index.php</h1>
+        <h1>Hello, friends </h1>
+        <h2>This is <?php echo $user_data['username'] ?> speaking</h2> 
+
         <a href="logout.php">logout</a>
-        
         <br>
-        Hello, friends this is <?php echo $user_data['username'] ?> speaking 
     </body>
 </html>

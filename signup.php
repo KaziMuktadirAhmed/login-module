@@ -11,7 +11,6 @@
         $password = $_POST['password'];
 
         if(!empty($username) && !empty($password)) {
-            // query
             $query = "INSERT INTO users(username, fullname, email, password) VALUES('$username', '$fullname', '$email', '$password')";
 
             mysqli_query($con, $query);
